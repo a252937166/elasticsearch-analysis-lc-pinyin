@@ -6,7 +6,7 @@ Lc Pinyin版本
 
 LC version | ES version
 -----------|-----------
-master | 5.3.0 -> master
+master | 6.2.3 -> master
 6.2.x | 6.1.0-6.2.3
 5.3.0.1 | 5.3.0
 5.2.2.1 | 5.2.2
